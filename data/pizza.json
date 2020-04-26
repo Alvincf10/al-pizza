@@ -28,21 +28,21 @@
             "gambar": "hottest.jpg"
         },
         {
-            "kategori": "Pasta",
+            "kategori": "pasta",
             "nama": "Fettuccine Pesto Salmone",
             "deskripsi": "Fettuccine, pesto genovese, minyak bawang putih, steak salmon panggang, lemon ",
             "harga": "50000",
             "gambar": "Fettuccin.jpg"
         },
         {
-            "kategori": "Pasta",
+            "kategori": "pasta",
             "nama": "Fettucini Carbonara",
             "deskripsi": " Daging sapi renyah dengan saus carbonara dan grana padano ",
             "harga": "70000",
             "gambar": "carbonara.jpg"
         },
         {
-            "kategori": "Pasta",
+            "kategori": "pasta",
             "nama": "Spaghetti Tartufo",
             "deskripsi": " Pasta krim jamur, minyak truffle hitam, minyak bawang putih, selesai dengan ",
             "harga": "85000",
