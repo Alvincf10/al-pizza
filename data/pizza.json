@@ -1,0 +1,87 @@
+{
+    "menu": [{
+            "kategori": "pizza",
+            "nama": "salami pizza",
+            "deskripsi": "Irisan sosis sapi,dengan tomato sauce, mozzarella.",
+            "harga": 75000,
+            "gambar": "salami.jpg"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Margherita",
+            "deskripsi": "Daging  sapi asap,Mozzarella, tomato.",
+            "harga": 95000,
+            "gambar": "margherita.jpg"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "Pomodoro pesto",
+            "deskripsi": "Santostomato yang diasinkan, kemangi segar, pesto, baby mozzarella, minyak bawang putih.",
+            "harga": 100000,
+            "gambar": "pomodoro.jpg"
+        },
+        {
+            "kategori": "pizza",
+            "nama": "American Hottest",
+            "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+            "harga": 80000,
+            "gambar": "hottest.jpg"
+        },
+        {
+            "kategori": "Pasta",
+            "nama": "Fettuccine Pesto Salmone",
+            "deskripsi": "Fettuccine, pesto genovese, minyak bawang putih, steak salmon panggang, lemon ",
+            "harga": "50000",
+            "gambar": "Fettuccin.jpg"
+        },
+        {
+            "kategori": "Pasta",
+            "nama": "Fettucini Carbonara",
+            "deskripsi": " Daging sapi renyah dengan saus carbonara dan grana padano ",
+            "harga": "70000",
+            "gambar": "carbonara.jpg"
+        },
+        {
+            "kategori": "Pasta",
+            "nama": "Spaghetti Tartufo",
+            "deskripsi": " Pasta krim jamur, minyak truffle hitam, minyak bawang putih, selesai dengan ",
+            "harga": "85000",
+            "gambar": "spaghetti.jpg"
+        },
+        {
+            "kategori": "ice",
+            "nama": "Tiramisu",
+            "deskripsi": " Kopi, coklat, krim, mascarpone, jari-jari spons. ",
+            "harga": "40000",
+            "gambar": "Tiramisu.jpg"
+        },
+        {
+            "kategori": "ice",
+            "nama": "pavlova",
+            "deskripsi": "Meringue dan krim atasnya dengan medley kiwi, strawberry, apel. ",
+            "harga": "45000",
+            "gambar": "pavlova.jpg"
+        },
+        {
+            "kategori": "ice",
+            "nama": "Apple Tortino",
+            "deskripsi": "Apel dengan basis pastry pubb, disajikan dengan es krim vanilla dan selesai ",
+            "harga": "55000",
+            "gambar": "apple.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Fresh juice",
+            "deskripsi": "Watermelon, Melon ",
+            "harga": "35000",
+            "gambar": "juice.jpg"
+        },
+        {
+            "kategori": "minuman",
+            "nama": "Bambinoccino",
+            "deskripsi": "Susu berbusa dengan bubuk cokelat springkling. ",
+            "harga": "45000",
+            "gambar": "piccolo.jpg"
+        }
+    ]
+}
