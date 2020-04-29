@@ -27,7 +27,9 @@
                     <a class="nav-item nav-link active" href="#">All Menu</a>
                     <a class="nav-item nav-link" href="#">Pizza</a>
                     <a class="nav-item nav-link" href="#">Pasta</a>
-                    <a class="nav-item nav-link" href="#">Desert</a>
+                    <!-- <a class="nav-item nav-link" href="#">Desert</a> -->
+                    <a class="nav-item nav-link" href="#">Ice</a>
+                    <a class="nav-item nav-link" href="#">Minuman</a>
                 </div>
             </div>
         </div>
@@ -39,10 +41,29 @@
                 <h1>All Menu</h1>
             </div>
         </div>
-
+        <h5 style="float:left;margin-right: 10px;margin-top:5px;">Sort by : </h5>
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
+                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Select to sort the content
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item disabled" href="#">Select to sort the content</a>
+                <a id="sortaz" class="dropdown-item" href="#">Nama A-Z</a>
+                <a id="sortza" class="dropdown-item" href="#">Nama Z-A</a>
+                <a id="sortrendah" class="dropdown-item" href="#">Harga Termurah</a>
+                <a id="sorttinggi" class="dropdown-item" href="#">Harga Termahal</a>
+            </div>
+        </div>
         <div class="row" id="daftar-menu">
         </div>
     </div>
+
+    <footer class="footer">
+        <div class="text-center">© 2020 Copyright:
+            <a class="footertext" href="https://www.instagram.com/alvincf10/">Alvin</a>
+        </div>
+    </footer>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -54,6 +75,10 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
     </script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    <script src="sweetalert2.all.min.js"></script>
+    <!-- Optional: include a polyfill for ES6 Promises for IE11 -->
+    <script src="https://cdn.jsdelivr.net/npm/promise-polyfill"></script>
     <script src="data/get_data.js"></script>
 </body>
 
